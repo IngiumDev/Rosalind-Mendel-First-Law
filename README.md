@@ -1,3 +1,4 @@
+![TreeDiagram](https://user-images.githubusercontent.com/86780096/206801870-7a18f040-3cca-4bca-a13c-8d5c6bba556c.jpg)
 ## Introduction to Mendelian Inheritance
 Figure 1. A Punnett square representing the possible outcomes of crossing a heterozygous organism (Yy) with a homozygous recessive organism (yy); here, the dominant allele Y corresponds to yellow pea pods, and the recessive allele y corresponds to green pea pods.
 
